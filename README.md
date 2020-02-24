@@ -1,6 +1,6 @@
 # WeekOne
 SDV
-Daniel Ewers
+Daniel Ewers                                                                                                                                            
 Day one week one:
 I have learned basic code such as the use of "commit." I have also learned the process of forming branches which are used as pointers to a specific commit. We start with the use of 'git checkout -b [name of branch].' This creates a new branch which we can then separate from the master branch with a commit, followed by 'git checkout master,' followed by another commit.
 
